@@ -15,6 +15,7 @@ Java é uma linguagem de programação simples e fácil de entender pois não co
 #### Orientada a objetos
 Java é uma linguagem de Programação Orientada a Objetos. Isso significa que tudo em Java é escrito em termos de Classes e Objetos.
 > Com exceção dos tipos primitivos. Através de uma boa base de lógica de programação, algoritmos e de modelagem e dados.
+
 Pilares da POO necessários a compreensão:
 1. Classe e objeto
 2. Encapsulamento
